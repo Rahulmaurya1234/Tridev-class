@@ -1,0 +1,29 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore logs
+*.log
+
+# Ignore compiled CSS (if using preprocessors)
+*.sass-cache/
+*.scss-cache/
+
+# Ignore IDE files (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Ignore Node.js dependencies (if using npm)
+node_modules/
+package-lock.json
+
+# Ignore deployment-related temp files
+dist/
+build/
+
+# Ignore unnecessary Git files
+.gitignore
