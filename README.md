@@ -4,7 +4,6 @@ Study Developer - A learning platform offering free courses on web development, 
 
 Study Developer एक फ्री लर्निंग प्लेटफॉर्म है, जहाँ आप **Web Development, Programming, और Tech से जुड़े Tutorials** सीख सकते हैं। 
 
-🌐 **Live Demo:** [yourusername.github.io/study-developer](https://yourusername.github.io/study-developer)
 
 ---
 
